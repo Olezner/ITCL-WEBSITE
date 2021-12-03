@@ -1,0 +1,190 @@
+html{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.header-bg {
+	background-image: url(https://image.freepik.com/free-vector/hexagonal-technology-pattern-mesh-background-with-text-space_1017-26293.jpg);
+	height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pirates{
+  margin-top: -5cm;
+}
+
+.lpu{
+  float: right;
+  margin-right: 0.5cm;
+  margin-top: -4.3cm;
+}
+
+body{
+  background-image: url(https://github.com/Olezner/ITCL-WEBSITE/blob/main/bluebackground.png?raw=true);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  height: 100%;
+}
+
+
+div .body {
+  background-image: url(https://github.com/Olezner/ITCL-WEBSITE/blob/main/bluebackground.png?raw=true);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  height: 100%;
+}
+
+div .maincontainer {
+  margin: 0 auto;
+  width: ___px;
+  text-align: center;
+  text-decoration: none;
+}
+li{
+  text-decoration: none;
+  display: inline;
+}
+ul {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  margin-top: -2cm;
+}
+
+ul li {
+  text-decoration: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -20in;
+}
+
+li a {
+  display: inline-flex;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-top: -20in;
+}
+
+li a:hover {
+  background-color: rgb(72, 255, 0);
+}
+.gradient-text {
+  background-color: #f3ec78;
+  background-image: linear-gradient(45deg, #fdf9b3, #ce708b);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+#HEADLINE{
+  margin-top: -0.9cm;
+  text-align: center;
+  font-size: 1cm;
+}
+
+.page-1{
+  margin-top: 4cm;
+}
+
+.ml-logo{
+  margin-top: -3.5cm;
+  margin-left: 0cm;
+}
+
+.valo-logo{
+  margin-left:-0.5cm;
+}
+div .VALORANT{
+  margin-top: -9cm;
+  margin-left: 16cm;
+}
+
+div .CODM{
+  margin-top: -8.8cm;
+  margin-left: 28.5cm;
+}
+
+.codm-logo{
+  margin-left: 0.8cm;
+}
+
+
+#Management{
+  text-align:center;
+  margin-left: -9cm;
+  margin-top: 5cm;
+  font-size: 40px;
+}
+
+.profile{
+  display: flex;
+  margin-left: -6cm;
+  
+}
+
+
+.prof {
+  flex: 100%;
+  align-items: center;
+}
+
+#achievements{
+  text-align: center;
+  font-size: 1cm;
+
+}
+
+.rover{
+  text-align: left;
+  margin-left: 10cm;
+  font-size: 20px;
+}
+
+ol{
+  text-decoration:dotted;
+  margin-left: -4cm;
+}
+
+.glorious{
+  margin-top:-4.61cm;
+  margin-left: 14cm;
+}
+
+.bridage{
+  margin-left: -7cm;
+}
+
+.Phoenix{
+  margin-top:-3.7cm;
+  margin-left: 15cm;
+}
+
+.ML-Team{
+  text-align: left;
+  margin-left: 6cm;
+}
+
+.Valo-Team{
+  text-align: left;
+  margin-left: 6cm;
+}
+
+.CODM-Team{
+  text-align: left;
+  margin-left: 6cm;
+}
+
+
